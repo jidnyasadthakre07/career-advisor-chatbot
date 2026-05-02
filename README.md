@@ -85,7 +85,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/career-advisor-chatbot.git
+git clone https://github.com/jidnyasadthakre07/career-advisor-chatbot.git
 cd career-advisor-chatbot
 ```
 
