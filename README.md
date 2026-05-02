@@ -228,7 +228,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3-pip python3-venv git -y
 
 # Clone the repository
-git clone https://github.com/your-username/career-advisor-chatbot.git
+git clone https://github.com/jidnyasadthakre07/career-advisor-chatbot.git
 cd career-advisor-chatbot
 
 # Create virtual environment
