@@ -37,12 +37,13 @@ The app maintains **conversation memory** across turns, enabling context-aware f
 
 | Feature | Description |
 |---|---|
-| 🤖 **Gemini Flash LLM** | Powered by Google's latest `gemini-flash-latest` model for fast, high-quality responses |
+| 🤖 **Gemini Flash LLM** | Powered by Google's `gemini-flash-latest` model for fast, high-quality responses |
 | 🧠 **Conversation Memory** | Retains full chat history within a session for context-aware multi-turn dialogue |
 | 🎯 **Domain-Specific Prompting** | Custom system prompt constrains the model strictly to career guidance topics |
 | 💬 **Chat UI** | Clean, intuitive Streamlit chat interface with message bubbles |
-| 🔐 **Secure API Key Handling** | API keys loaded via `.env` file — never hardcoded |
+| 🔐 **Secure API Key Handling** | API keys managed via `.env` and excluded from version control |
 | 🧩 **Modular Architecture** | Clean separation of concerns across `api_client`, `memory`, `prompts`, and `config` modules |
+| ☁️ **Cloud Deployed** | Live on AWS EC2 — accessible from anywhere, anytime |
 
 ---
 
@@ -169,17 +170,12 @@ Streamlit Chat UI         ← Renders full conversation history
 
 ---
 
+
 ## 🔐 Configuration
 
 | Variable | Required | Description |
 |---|---|---|
-| `GEMINI_API_KEY` | ✅ Yes | Your Google Gemini API key from AI Studio |
-
-> ⚠️ Never commit your `.env` file. Add it to `.gitignore` immediately.
-
-```bash
-echo ".env" >> .gitignore
-```
+| `GEMINI_API_KEY` | ✅ Yes | Google Gemini API key from [AI Studio](https://aistudio.google.com/app/apikey) |
 
 ---
 
@@ -195,10 +191,10 @@ The application is **live on AWS EC2** in the Asia Pacific (Sydney) region.
 | **Service** | EC2 (Elastic Compute Cloud) |
 | **Instance Name** | `genai.inference3` |
 | **Instance Type** | `t3.micro` |
+| **OS** | Ubuntu 22.04 LTS |
 | **Region** | Asia Pacific — Sydney (`ap-southeast-2c`) |
 | **Instance State** | 🟢 Running |
 | **Public IPv4** | `52.65.122.199` |
-| **Private IPv4** | `172.31.28.171` |
 
 ### Deployment Steps
 
