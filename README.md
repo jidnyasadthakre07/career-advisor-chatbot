@@ -286,30 +286,12 @@ http://52.65.122.199:8501
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to your branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
-
----
-
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [jidnyasadthakre07](https://github.com/jidnyasadthakre07)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/jidnyasathakre/)
+- Email: jidnyasathakre3@gmail.com
 
 ---
 
