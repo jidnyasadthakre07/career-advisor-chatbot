@@ -288,13 +288,10 @@ http://52.65.122.199:8501
 
 ## 👤 Author
 
-**Your Name**
+**Jidnyasa Thakre**
 - GitHub: https://github.com/jidnyasadthakre07
 - LinkedIn: https://linkedin.com/in/jidnyasathakre/
 - Email: jidnyasathakre3@gmail.com
 
 ---
 
-<p align="center">
-  Built with ❤️ using Google Gemini + Streamlit
-</p>
