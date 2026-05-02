@@ -289,8 +289,8 @@ http://52.65.122.199:8501
 ## 👤 Author
 
 **Your Name**
-- GitHub: [jidnyasadthakre07](https://github.com/jidnyasadthakre07)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/jidnyasathakre/)
+- GitHub: https://github.com/jidnyasadthakre07
+- LinkedIn: https://linkedin.com/in/jidnyasathakre/
 - Email: jidnyasathakre3@gmail.com
 
 ---
