@@ -282,6 +282,11 @@ http://52.65.122.199:8501
 
 ---
 
+#### 🔗 Hugging Face Deployment:  
+https://huggingface.co/spaces/Jidnyasa11/career-advisor-chatbot
+
+---
+
 ## 👤 Author
 
 **Jidnyasa Thakre**
